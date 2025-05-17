@@ -4,41 +4,42 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/Bloxy-Bingo/refs/heads/main/Bloxy%20Bingo%20by%20AlexScriptX.lua"))()
 ```
 
-## ✨ Características
+## ✨ Features
 
-### ✅ Auto Marcar
-- Marca automáticamente todos los números/imágenes visibles en tus tarjetas de bingo.
+### ✅ Auto Mark
+- Automatically marks all visible numbers/images on your bingo cards.
 
 ### 🎯 Auto Bingo
-- Presiona el botón de **Bingo** automáticamente cada segundo.
+- Presses the **Bingo** button automatically every second.
 
-### 🖱️ Soporte para Móviles y PC
-- Interfaz **draggable** (se puede arrastrar con el mouse o dedo).
-- Botón **minimizar** (`-`) en esquina superior derecha.
-- Al minimizar se muestra un pequeño cuadro `"AX-SCRIPT"` que permite restaurar la GUI fácilmente en dispositivos móviles.
-- El botón `"AX-SCRIPT"` también es draggable.
+### ⚡ Customizable Interface
+- The **menu interface** is fully configurable, with a dark theme and adjustable options such as window size.
+- **Real-time notifications** about the status of activated features (Example: "Jumping disabled!").
 
-### ⌨️ Asignación de Tecla Personalizada
-- Puedes elegir cualquier tecla del teclado para **mostrar/ocultar la GUI**.
-- Si se minimiza desde el botón `"-"`, la tecla queda **temporalmente deshabilitada** hasta que la GUI se reactive desde `"AX-SCRIPT"`.
+### 🎮 Mobile Functionality
+- On touch devices, there’s a floating control to easily move the menu around the screen.
+- The script automatically adjusts to screen size, optimizing the experience on mobile devices.
 
----
-
-## 📌 Controles
-
-- `Auto Marcar`: Habilita o deshabilita el marcado automático de números/imágenes.
-- `Auto Bingo`: Activa el clic automático del botón de Bingo cada segundo.
-- `Cambiar Keybind`: Asigna cualquier tecla para ocultar/mostrar la GUI.
+### ⚙️ Customizable Settings
+- Options to enable/disable jumping, adjusting your character's **jump power** and **jump height**.
+- Saves user settings through **SaveManager**, so you don’t have to reconfigure every time you start the game.
 
 ---
 
-## 🎮 Link del juego
+## 🎚️ Controls
 
-https://www.roblox.com/es/games/5244411056/Bloxy-Bingo
+- **PC**: Press the `LeftControl` key to **minimize/show** the menu.
+- **Mobile**: Swipe to move the floating control on the screen.
 
 ---
 
-## 🧑‍💻 Autor
+## 🎮 Game Link
 
-Creado por **AlexScriptX**  
-💬 Si este script te fue útil, considera dar ⭐ al repositorio y compartirlo con otros jugadores de Bloxy Bingo.
+https://www.roblox.com/games/5244411056/Bloxy-Bingo
+
+---
+
+## 🧑‍💻 Author
+
+Created by **AlexScriptX**  
+💬 If this script was helpful, consider ⭐ the repository and share it with other Bloxy Bingo players.
